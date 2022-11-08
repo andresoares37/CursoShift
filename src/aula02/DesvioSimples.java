@@ -16,7 +16,7 @@ public class DesvioSimples {
 		else {
 			System.out.println("Vc é legal!");
 		}
-		System.out.print("Sua idade é: ");		
+		System.out.print("Sua idade é: " + idade);		
 	}
 
 }
