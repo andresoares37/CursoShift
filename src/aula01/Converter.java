@@ -12,7 +12,7 @@ public class Converter {
 		double real;
 		
 		System.out.println("Digite o valor em dolar");
-		real = leitor.nextFloat();
+		dolar = leitor.nextFloat();
 		leitor.close();
 		
 		real = dolar * cotacao;
